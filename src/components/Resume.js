@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Bar from './Bar';
 import { motion } from 'framer-motion'
 import { tools, languages } from './data/resume_data'
